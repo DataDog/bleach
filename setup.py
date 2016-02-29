@@ -16,7 +16,7 @@ except ImportError:
 
 setup(
     name='bleach',
-    version='1.4.2',
+    version='1.4.2+dd.1',
     description='An easy whitelist-based HTML-sanitizing tool.',
     long_description=open('README.rst').read(),
     author='James Socol',
